@@ -1,0 +1,8 @@
+{
+    "gitflow4code.features": [
+        {
+            "name": "feature/setup_authentication_with_jwt",
+            "base": "develop"
+        }
+    ]
+}
